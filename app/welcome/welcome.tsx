@@ -2,7 +2,7 @@
 
 export function Welcome() {
   return (
-    <div> HOla Mundo</div>
+    <div> WELCOME TO MY PAGE</div>
   );
 }
 
